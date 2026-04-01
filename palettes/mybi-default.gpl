@@ -1,0 +1,119 @@
+GIMP Palette
+Name: MyBI
+Columns: 8
+# Identifier: default
+# Description: Best-practice colours per chart type over MyBI's grey app theme.
+# Charts series
+ 26 152  80	Charts 1
+102 189  99	Charts 2
+166 217 106	Charts 3
+254 224 139	Charts 4
+253 174  97	Charts 5
+244 109  67	Charts 6
+215  48  39	Charts 7
+# Primary palette
+ 26  26  26	Primary 1
+ 89  89  89	Primary 2
+140 140 140	Primary 3
+191 191 191	Primary 4
+217 217 217	Primary 5
+# Secondary palette
+ 64  64  64	Secondary 1
+115 115 115	Secondary 2
+166 166 166	Secondary 3
+217 217 217	Secondary 4
+ 38  38  38	Secondary 5
+# Additional functional colours
+215  48  39	Functional 1
+253 174  97	Functional 2
+254 224 139	Functional 3
+166 217 106	Functional 4
+ 26 152  80	Functional 5
+# Bar charts
+ 26 152  80	Bar 1
+102 189  99	Bar 2
+166 217 106	Bar 3
+254 224 139	Bar 4
+253 174  97	Bar 5
+244 109  67	Bar 6
+215  48  39	Bar 7
+# Line charts
+ 31 158 137	Line 1
+ 44 127 184	Line 2
+253 174  97	Line 3
+215  48  39	Line 4
+117 107 177	Line 5
+ 65 182 196	Line 6
+135 135 135	Line 7
+# Pie charts
+ 68 119 170	Pie 1
+238 102 119	Pie 2
+ 34 136  51	Pie 3
+204 187  68	Pie 4
+102 204 238	Pie 5
+170  51 119	Pie 6
+187 187 187	Pie 7
+# Heatmap charts
+237 248 233	Heatmap 1
+199 233 192	Heatmap 2
+161 217 155	Heatmap 3
+116 196 118	Heatmap 4
+ 65 171  93	Heatmap 5
+ 35 139  69	Heatmap 6
+  0  90  50	Heatmap 7
+# Gauge charts
+ 35 139  69	Gauge 1
+116 196 118	Gauge 2
+254 224 139	Gauge 3
+253 174  97	Gauge 4
+215  48  39	Gauge 5
+# Other charts
+ 51 102 204	Other 1
+220  57  18	Other 2
+ 16 150  24	Other 3
+255 153   0	Other 4
+153   0 153	Other 5
+  0 153 198	Other 6
+221  68 119	Other 7
+# Light theme
+ 99 102 241	Light Accent
+236 236 236	Light Background
+250 250 250	Light Surface
+228 228 228	Light Surface 2
+220 220 220	Light Background Hover
+ 20  20  20	Light Text
+ 74  74  74	Light Text Dim
+117 117 117	Light Text Faint
+212 212 212	Light Border
+184 184 184	Light Border Strong
+ 99 102 241	Light Selected
+255 255 255	Light Selected Text
+228 228 228	Light Footer
+# Dark theme
+129 140 248	Dark Accent
+ 26  26  26	Dark Background
+ 35  35  35	Dark Surface
+ 43  43  43	Dark Surface 2
+ 52  52  52	Dark Background Hover
+235 235 235	Dark Text
+162 162 162	Dark Text Dim
+110 110 110	Dark Text Faint
+ 56  56  56	Dark Border
+ 72  72  72	Dark Border Strong
+129 140 248	Dark Selected
+ 20  20  26	Dark Selected Text
+ 35  35  35	Dark Footer
+# OLED theme
+129 140 248	OLED Accent
+  0   0   0	OLED Background
+ 10  10  10	OLED Surface
+ 20  20  20	OLED Surface 2
+ 30  30  30	OLED Background Hover
+242 242 242	OLED Text
+162 162 162	OLED Text Dim
+110 110 110	OLED Text Faint
+ 38  38  38	OLED Border
+ 54  54  54	OLED Border Strong
+129 140 248	OLED Selected
+  0   0   0	OLED Selected Text
+ 10  10  10	OLED Footer

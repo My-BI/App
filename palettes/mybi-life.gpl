@@ -1,0 +1,125 @@
+GIMP Palette
+Name: MyBI Life
+Columns: 8
+# Identifier: life
+# Description: A vibrant full-spectrum categorical palette with a violet UI accent.
+# Charts series
+225  29  72	Charts 1
+249 115  22	Charts 2
+245 158  11	Charts 3
+234 179   8	Charts 4
+ 34 197  94	Charts 5
+ 20 184 166	Charts 6
+ 59 130 246	Charts 7
+ 99 102 241	Charts 8
+168  85 247	Charts 9
+236  72 153	Charts 10
+# Primary palette
+225  29  72	Primary 1
+249 115  22	Primary 2
+234 179   8	Primary 3
+ 34 197  94	Primary 4
+ 59 130 246	Primary 5
+# Secondary palette
+ 20 184 166	Secondary 1
+ 99 102 241	Secondary 2
+168  85 247	Secondary 3
+236  72 153	Secondary 4
+100 116 139	Secondary 5
+# Additional functional colours
+225  29  72	Functional 1
+249 115  22	Functional 2
+254 224 139	Functional 3
+134 239 172	Functional 4
+ 22 163  74	Functional 5
+# Bar charts
+ 26 152  80	Bar 1
+102 189  99	Bar 2
+163 230  53	Bar 3
+254 224 139	Bar 4
+249 115  22	Bar 5
+244  63  94	Bar 6
+190  18  60	Bar 7
+# Line charts
+ 59 130 246	Line 1
+225  29  72	Line 2
+ 20 184 166	Line 3
+249 115  22	Line 4
+168  85 247	Line 5
+ 34 197  94	Line 6
+100 116 139	Line 7
+# Pie charts
+225  29  72	Pie 1
+249 115  22	Pie 2
+234 179   8	Pie 3
+ 34 197  94	Pie 4
+ 20 184 166	Pie 5
+ 59 130 246	Pie 6
+168  85 247	Pie 7
+# Heatmap charts
+245 243 255	Heatmap 1
+221 214 254	Heatmap 2
+196 181 253	Heatmap 3
+167 139 250	Heatmap 4
+139  92 246	Heatmap 5
+124  58 237	Heatmap 6
+ 91  33 182	Heatmap 7
+# Gauge charts
+ 34 197  94	Gauge 1
+163 230  53	Gauge 2
+234 179   8	Gauge 3
+249 115  22	Gauge 4
+225  29  72	Gauge 5
+# Other charts
+ 99 102 241	Other 1
+236  72 153	Other 2
+245 158  11	Other 3
+ 20 184 166	Other 4
+ 59 130 246	Other 5
+168  85 247	Other 6
+100 116 139	Other 7
+# Light theme
+124  58 237	Light Accent
+255 255 255	Light Background
+250 250 251	Light Surface
+242 242 247	Light Surface 2
+233 233 240	Light Background Hover
+ 22  20  28	Light Text
+ 78  74  90	Light Text Dim
+120 116 132	Light Text Faint
+226 226 232	Light Border
+196 194 208	Light Border Strong
+124  58 237	Light Selected
+255 255 255	Light Selected Text
+245 245 248	Light Footer
+250 250 251	Light Icon Rail
+# Dark theme
+168  85 247	Dark Accent
+ 26  24  32	Dark Background
+ 34  31  42	Dark Surface
+ 43  39  54	Dark Surface 2
+ 44  40  56	Dark Background Hover
+236 234 242	Dark Text
+168 164 182	Dark Text Dim
+116 112 130	Dark Text Faint
+ 52  48  64	Dark Border
+ 74  68  92	Dark Border Strong
+124  58 237	Dark Selected
+255 255 255	Dark Selected Text
+ 22  20  30	Dark Footer
+ 22  20  30	Dark Icon Rail
+# OLED theme
+168  85 247	OLED Accent
+  0   0   0	OLED Background
+ 12  10  16	OLED Surface
+ 22  19  28	OLED Surface 2
+ 32  28  40	OLED Background Hover
+242 240 248	OLED Text
+168 164 182	OLED Text Dim
+116 112 130	OLED Text Faint
+ 34  30  42	OLED Border
+ 54  48  68	OLED Border Strong
+124  58 237	OLED Selected
+255 255 255	OLED Selected Text
+  0   0   0	OLED Footer
+  0   0   0	OLED Icon Rail

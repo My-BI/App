@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "palettes": [
+    {
+      "id": "default",
+      "name": "MyBI",
+      "path": "mybi-default.gpl"
+    },
+    {
+      "id": "life",
+      "name": "MyBI Life",
+      "path": "mybi-life.gpl"
+    }
+  ]
+}
