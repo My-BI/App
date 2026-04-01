@@ -1,0 +1,22 @@
+{
+  "app.name": "MyBI",
+  "app.tagline": "बिज़नेस इंटेलिजेंस और विश्लेषण",
+  "nav.home": "होम",
+  "nav.data": "डेटा",
+  "nav.charts": "चार्ट",
+  "nav.canvas": "कैनवास",
+  "nav.ai": "एआई",
+  "nav.help": "सहायता",
+  "nav.settings": "सेटिंग्स",
+  "nav.plugins": "प्लगइन",
+  "action.save": "सहेजें",
+  "action.cancel": "रद्द करें",
+  "action.export": "निर्यात",
+  "action.import": "आयात",
+  "action.delete": "हटाएँ",
+  "action.search": "खोजें",
+  "common.yes": "हाँ",
+  "common.no": "नहीं",
+  "common.loading": "लोड हो रहा है…",
+  "common.language": "भाषा"
+}
