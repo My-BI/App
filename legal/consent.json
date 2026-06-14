@@ -1,0 +1,35 @@
+{
+  "_note": "Consent documents fetched by the MyBI app's first-run consent gate. The app hashes the `docs` array (id+title+body) to a version id; editing any text here re-prompts every user. DRAFT — pending review: replace each `body` with lawyer-reviewed wording before release.",
+  "docs": [
+    {
+      "id": "license",
+      "title": "License Agreement",
+      "summary": "Your right to install and use MyBI.",
+      "body": "DRAFT — pending review.\n\n1. Grant. Subject to this agreement, you are granted a personal, non-exclusive, non-transferable license to install and use MyBI on devices you own or control.\n\n2. Restrictions. You may not redistribute, sublicense, rent, or sell the application, nor reverse-engineer it except where that restriction is prohibited by law.\n\n3. Updates. Updates may be provided from time to time and are covered by this agreement unless they ship with their own terms.\n\n4. Ownership. The application and its intellectual property remain owned by the publisher. No rights are granted other than those expressly stated here."
+    },
+    {
+      "id": "terms",
+      "title": "Terms of Service",
+      "summary": "The rules for using the app and any connected services.",
+      "body": "DRAFT — pending review.\n\n1. Acceptable use. You agree to use MyBI lawfully and not to misuse the application or any connected services, including any enterprise features your organization enables.\n\n2. Accounts. Some features require signing in. You are responsible for activity under your account and for keeping your sign-in secure.\n\n3. Enterprise features. If your organization uses MyBI's enterprise controls, your administrator may set policies that affect how you use the app (for example, classifying projects and requiring additional verification to open or export confidential work).\n\n4. Availability & changes. Features may change, and connected services may be unavailable from time to time. We may update these terms; continued use after an update means you accept the revised terms.\n\n5. Disclaimers & liability. The application is provided \"as is\" to the maximum extent permitted by law. Nothing here limits rights that cannot be limited under applicable law."
+    },
+    {
+      "id": "privacy",
+      "title": "Privacy & Data Agreement",
+      "summary": "What data the app handles, and how.",
+      "body": "DRAFT — pending review.\n\n1. What we handle. MyBI stores your projects and dashboards locally on your device. When you sign in, account identity is handled to provide access and licensing.\n\n2. Enterprise monitoring. If your organization enables enterprise controls, certain actions on projects your administrator marks confidential may be recorded and reported to your organization (for example, who opened or exported a confidential project, and from which device). Where biometric verification is enabled, it is collected only with your explicit, separate consent at enrollment and is encrypted so that only your organization can read it. You will be asked to consent at that point — this agreement does not by itself enroll you in biometric verification.\n\n3. Local-first. Your data stays on your device unless you explicitly export, publish, or sync it, or unless an enterprise policy your organization set applies.\n\n4. Retention & deletion. Data is retained per your organization's policy and removed on request or on offboarding, subject to legal requirements.\n\n5. Your rights. You may have rights to access, correct, or delete personal data under applicable law (for example GDPR/CCPA). Contact your organization's administrator or the publisher to exercise them."
+    },
+    {
+      "id": "ai",
+      "title": "AI Features",
+      "summary": "On-device, locally-hosted, and cloud AI — and where your data goes.",
+      "body": "DRAFT — pending review.\n\nMyBI's AI assistance can run through three kinds of engine. You choose which to use, and data handling differs by kind:\n\n1. On-device AI. Runs entirely on your device (for example Apple Foundation Models or MLX). Your prompts and data are processed locally and are not sent anywhere by MyBI.\n\n2. Locally-hosted AI. Runs on a model server you or your organization host (for example on your own machine or local network). Prompts and data stay within that environment; MyBI does not send them to third parties.\n\n3. Cloud AI. Uses an external provider over the internet. The prompts and any data you include are sent to that provider for processing, subject to the provider's own terms and privacy policy. Use cloud AI only with data you are permitted to share externally.\n\nIn every case, AI features can read your dataset values only through an explicit in-app capability grant, and you can review or change the active engine and its permissions in the app's AI settings at any time.\n\nThird-party providers and trademarks: MyBI is an independent product and is not affiliated with, sponsored by, or endorsed by Anthropic, OpenAI, Google, or any AI provider. When you use a cloud or external AI engine, you connect your own account and credentials, and you are solely responsible for complying with that provider's terms of service and acceptable-use policies. Provider and product names are used only to identify compatibility; all trademarks belong to their respective owners."
+    },
+    {
+      "id": "parental",
+      "title": "Parental Controls",
+      "summary": "Age-appropriate limits on AI and map regions, with guardian unlock.",
+      "body": "DRAFT — pending review.\n\nMyBI supports age-appropriate restrictions and works with the operating system's parental controls where available (for example macOS Screen Time / Family Controls).\n\n1. AI features. For accounts in younger age groups, AI features may be turned off until an appropriate age.\n\n2. Maps & regions. For younger age groups, map region selection is limited. Political and administrative boundaries can be sensitive and are sometimes disputed; this limit helps avoid unintentionally publishing a map that could raise geopolitical issues — until the user is old enough to understand that boundaries can be contested and to choose them deliberately.\n\n3. Unlocking. These limits ease automatically once the account reaches the appropriate age. A parent, guardian, or adult account holder can override them at any time in Settings → Parental Controls → Region unlock.\n\nThese controls are about safety and responsible publishing, not censorship; an adult always keeps full control in the app's settings."
+    }
+  ]
+}
