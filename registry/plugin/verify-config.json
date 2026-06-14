@@ -1,0 +1,13 @@
+{
+  "$schema": "./schema/verify-config.schema.json",
+  "version": 1,
+  "acceptingApplications": 0,
+  "applyUrl": "",
+  "eligibility": [
+    "A registered company or an established, identifiable maintainer",
+    "The plugin is open-source, or its source is provided to MyBI on request",
+    "Actively maintained — security reports are acknowledged and addressed",
+    "The plugin's capabilities (uses) match what it actually does",
+    "You agree to MyBI's publisher terms"
+  ]
+}

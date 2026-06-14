@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "git",
+      "name": "Git",
+      "repo": "My-BI/mybi-git",
+      "tier": "mybi",
+      "publisher": "MyBI",
+      "summary": "Source control for your data pipeline — a commit branch graph, history, and a git terminal."
+    },
+    {
+      "id": "charts-recharts",
+      "name": "Recharts Charts",
+      "repo": "My-BI/mybi-recharts",
+      "tier": "mybi",
+      "publisher": "MyBI",
+      "summary": "Interactive chart pack — bar, line, area, and pie bound to your selected dataset, with tooltips, a legend, and a brush."
+    },
+    {
+      "id": "demo",
+      "name": "Sandbox Demo",
+      "repo": "My-BI/plugin-demo",
+      "tier": "community",
+      "summary": "A reference plugin that exercises the main contribution surfaces. Unsigned — installs with a consent notice.",
+      "author": "John Doe"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "$schema": "./schema/allowlist.schema.json",
+  "version": 1,
+  "companies": []
+}

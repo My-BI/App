@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "note": "MyBI's chart capability per rendering engine. Edit via pull request — Help fetches this file live from GitHub, so corrections appear without an app update.",
+  "columns": ["Recharts", "ECharts"],
+  "features": [
+    { "feature": "Bar & column charts",            "recharts": true,  "echarts": true },
+    { "feature": "Stacked bars / areas",            "recharts": true,  "echarts": true },
+    { "feature": "Line & area charts",              "recharts": true,  "echarts": true },
+    { "feature": "Combo (bars + line)",             "recharts": true,  "echarts": false },
+    { "feature": "Pie & donut",                     "recharts": true,  "echarts": true },
+    { "feature": "Scatter",                         "recharts": true,  "echarts": true },
+    { "feature": "Bubble (sized scatter)",          "recharts": false, "echarts": true },
+    { "feature": "Radar",                           "recharts": true,  "echarts": true },
+    { "feature": "Funnel",                          "recharts": true,  "echarts": true },
+    { "feature": "Treemap & sunburst",              "recharts": true,  "echarts": true },
+    { "feature": "Radial bar",                      "recharts": true,  "echarts": true },
+    { "feature": "Sankey / flow",                   "recharts": true,  "echarts": true },
+    { "feature": "Gauge",                           "recharts": false, "echarts": true },
+    { "feature": "Heatmap & calendar",              "recharts": false, "echarts": true },
+    { "feature": "Statistical (boxplot/candlestick/histogram)", "recharts": false, "echarts": true },
+    { "feature": "Waterfall",                       "recharts": false, "echarts": true },
+    { "feature": "Parallel coordinates",            "recharts": false, "echarts": true },
+    { "feature": "Hierarchy (tree / graph / chord)","recharts": false, "echarts": true },
+    { "feature": "Stream (themeRiver)",             "recharts": false, "echarts": true },
+    { "feature": "Geo maps (choropleth)",           "recharts": false, "echarts": true },
+    { "feature": "3D charts",                       "recharts": false, "echarts": true },
+    { "feature": "Click cross-filter + highlight",  "recharts": true,  "echarts": true },
+    { "feature": "Data-zoom / brush select",        "recharts": false, "echarts": true },
+    { "feature": "Downloaded on demand (not bundled)", "recharts": false, "echarts": true }
+  ]
+}
