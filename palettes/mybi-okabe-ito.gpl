@@ -1,0 +1,123 @@
+GIMP Palette
+Name: MyBI Okabe-Ito
+Columns: 8
+# Identifier: okabe-ito
+# Description: Colour-blind safe categorical colours — legible under deuteranopia, protanopia and tritanopia.
+# Charts series
+  0 114 178	Charts 1
+213  94   0	Charts 2
+  0 158 115	Charts 3
+240 228  66	Charts 4
+ 86 180 233	Charts 5
+204 121 167	Charts 6
+230 159   0	Charts 7
+ 73  73  73	Charts 8
+# Primary palette
+  0 114 178	Primary 1
+213  94   0	Primary 2
+  0 158 115	Primary 3
+230 159   0	Primary 4
+ 86 180 233	Primary 5
+# Secondary palette
+204 121 167	Secondary 1
+240 228  66	Secondary 2
+  0  92 143	Secondary 3
+164  72   0	Secondary 4
+ 73  73  73	Secondary 5
+# Additional functional colours
+213  94   0	Functional 1
+230 159   0	Functional 2
+240 228  66	Functional 3
+ 86 180 233	Functional 4
+  0 114 178	Functional 5
+# Bar charts
+  0  76 119	Bar 1
+  0 114 178	Bar 2
+ 86 180 233	Bar 3
+240 228  66	Bar 4
+230 159   0	Bar 5
+213  94   0	Bar 6
+150  66   0	Bar 7
+# Line charts
+  0 114 178	Line 1
+213  94   0	Line 2
+  0 158 115	Line 3
+230 159   0	Line 4
+204 121 167	Line 5
+ 86 180 233	Line 6
+ 73  73  73	Line 7
+# Pie charts
+  0 114 178	Pie 1
+213  94   0	Pie 2
+  0 158 115	Pie 3
+240 228  66	Pie 4
+ 86 180 233	Pie 5
+204 121 167	Pie 6
+230 159   0	Pie 7
+# Heatmap charts
+240 246 251	Heatmap 1
+206 227 243	Heatmap 2
+158 202 225	Heatmap 3
+107 174 214	Heatmap 4
+ 49 130 189	Heatmap 5
+  8  81 156	Heatmap 6
+  8  48 107	Heatmap 7
+# Gauge charts
+  0 114 178	Gauge 1
+ 86 180 233	Gauge 2
+240 228  66	Gauge 3
+230 159   0	Gauge 4
+213  94   0	Gauge 5
+# Other charts
+  0 114 178	Other 1
+213  94   0	Other 2
+  0 158 115	Other 3
+230 159   0	Other 4
+204 121 167	Other 5
+ 86 180 233	Other 6
+ 73  73  73	Other 7
+# Light theme
+  0 114 178	Light Accent
+255 255 255	Light Background
+248 250 252	Light Surface
+238 243 248	Light Surface 2
+226 235 244	Light Background Hover
+ 19  23  28	Light Text
+ 72  81  92	Light Text Dim
+114 124 137	Light Text Faint
+219 230 240	Light Border
+183 200 216	Light Border Strong
+  0 114 178	Light Selected
+255 255 255	Light Selected Text
+241 246 251	Light Footer
+248 250 252	Light Icon Rail
+# Dark theme
+ 86 180 233	Dark Accent
+ 17  22  28	Dark Background
+ 24  31  39	Dark Surface
+ 32  41  51	Dark Surface 2
+ 34  44  55	Dark Background Hover
+234 239 244	Dark Text
+161 172 184	Dark Text Dim
+109 121 134	Dark Text Faint
+ 42  53  65	Dark Border
+ 62  77  93	Dark Border Strong
+  0 114 178	Dark Selected
+255 255 255	Dark Selected Text
+ 17  22  28	Dark Footer
+ 17  22  28	Dark Icon Rail
+# OLED theme
+ 86 180 233	OLED Accent
+  0   0   0	OLED Background
+  8  12  16	OLED Surface
+ 18  24  30	OLED Surface 2
+ 26  34  42	OLED Background Hover
+242 246 250	OLED Text
+161 172 184	OLED Text Dim
+109 121 134	OLED Text Faint
+ 30  39  48	OLED Border
+ 48  61  75	OLED Border Strong
+  0 114 178	OLED Selected
+255 255 255	OLED Selected Text
+  0   0   0	OLED Footer
+  0   0   0	OLED Icon Rail

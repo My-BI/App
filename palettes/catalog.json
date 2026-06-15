@@ -7,6 +7,11 @@
       "path": "mybi-default.gpl"
     },
     {
+      "id": "okabe-ito",
+      "name": "MyBI Okabe-Ito",
+      "path": "mybi-okabe-ito.gpl"
+    },
+    {
       "id": "life",
       "name": "MyBI Life",
       "path": "mybi-life.gpl"
