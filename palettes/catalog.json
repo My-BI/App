@@ -15,6 +15,11 @@
       "id": "life",
       "name": "MyBI Life",
       "path": "mybi-life.gpl"
+    },
+    {
+      "id": "mks",
+      "name": "MyBI MKS",
+      "path": "mybi-mks.gpl"
     }
   ]
 }
