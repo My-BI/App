@@ -20,6 +20,11 @@
       "id": "mks",
       "name": "MyBI MKS",
       "path": "mybi-mks.gpl"
+    },
+    {
+      "id": "finn",
+      "name": "MyBI Finn",
+      "path": "mybi-finn.gpl"
     }
   ]
 }
