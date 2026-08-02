@@ -12,17 +12,17 @@ Columns: 8
 244 109  67	Charts 6
 215  48  39	Charts 7
 # Primary palette
- 26  26  26	Primary 1
- 89  89  89	Primary 2
-140 140 140	Primary 3
-191 191 191	Primary 4
-217 217 217	Primary 5
+169  58 234	Primary 1
+207 123 255	Primary 2
+236  72 153	Primary 3
+225  29  72	Primary 4
+109  40 217	Primary 5
 # Secondary palette
- 64  64  64	Secondary 1
-115 115 115	Secondary 2
-166 166 166	Secondary 3
-217 217 217	Secondary 4
- 38  38  38	Secondary 5
+219  39 119	Secondary 1
+244  63  94	Secondary 2
+124  58 237	Secondary 3
+ 79  70 229	Secondary 4
+147  51 234	Secondary 5
 # Additional functional colours
 215  48  39	Functional 1
 253 174  97	Functional 2
@@ -68,13 +68,13 @@ Columns: 8
 253 174  97	Gauge 4
 215  48  39	Gauge 5
 # Other charts
- 51 102 204	Other 1
-220  57  18	Other 2
- 16 150  24	Other 3
-255 153   0	Other 4
-153   0 153	Other 5
-  0 153 198	Other 6
-221  68 119	Other 7
+169  58 234	Other 1
+236  72 153	Other 2
+225  29  72	Other 3
+124  58 237	Other 4
+ 79  70 229	Other 5
+244 114 182	Other 6
+100 116 139	Other 7
 # Light theme
  99 102 241	Light Accent
 236 236 236	Light Background
@@ -89,6 +89,7 @@ Columns: 8
  99 102 241	Light Selected
 255 255 255	Light Selected Text
 228 228 228	Light Footer
+250 250 250	Light Icon Rail
 # Dark theme
 129 140 248	Dark Accent
  26  26  26	Dark Background
@@ -103,6 +104,7 @@ Columns: 8
 129 140 248	Dark Selected
  20  20  26	Dark Selected Text
  35  35  35	Dark Footer
+ 35  35  35	Dark Icon Rail
 # OLED theme
 129 140 248	OLED Accent
   0   0   0	OLED Background
@@ -117,3 +119,4 @@ Columns: 8
 129 140 248	OLED Selected
   0   0   0	OLED Selected Text
  10  10  10	OLED Footer
+ 10  10  10	OLED Icon Rail
