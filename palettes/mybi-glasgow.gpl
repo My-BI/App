@@ -1,0 +1,123 @@
+GIMP Palette
+Name: MyBI Glasgow
+Columns: 8
+# Identifier: glasgow
+# Description: A cool magenta palette — pink pulled towards purple, for a sharper, city-night feel.
+# Charts series
+157  23  77	Charts 1
+190  24  93	Charts 2
+219  39 119	Charts 3
+236  72 153	Charts 4
+244 114 182	Charts 5
+147  51 234	Charts 6
+124  58 237	Charts 7
+ 14 165 233	Charts 8
+# Primary palette
+157  23  77	Primary 1
+190  24  93	Primary 2
+219  39 119	Primary 3
+236  72 153	Primary 4
+249 168 212	Primary 5
+# Secondary palette
+147  51 234	Secondary 1
+124  58 237	Secondary 2
+168  85 247	Secondary 3
+ 99 102 241	Secondary 4
+ 14 165 233	Secondary 5
+# Additional functional colours
+190  24  93	Functional 1
+244 114 182	Functional 2
+253 230 138	Functional 3
+134 239 172	Functional 4
+ 22 163  74	Functional 5
+# Bar charts
+131  24  67	Bar 1
+157  23  77	Bar 2
+190  24  93	Bar 3
+219  39 119	Bar 4
+236  72 153	Bar 5
+244 114 182	Bar 6
+249 168 212	Bar 7
+# Line charts
+219  39 119	Line 1
+147  51 234	Line 2
+ 14 165 233	Line 3
+236  72 153	Line 4
+ 99 102 241	Line 5
+ 16 185 129	Line 6
+100 116 139	Line 7
+# Pie charts
+219  39 119	Pie 1
+147  51 234	Pie 2
+ 14 165 233	Pie 3
+245 158  11	Pie 4
+ 16 185 129	Pie 5
+236  72 153	Pie 6
+100 116 139	Pie 7
+# Heatmap charts
+253 242 248	Heatmap 1
+252 231 243	Heatmap 2
+251 207 232	Heatmap 3
+244 114 182	Heatmap 4
+219  39 119	Heatmap 5
+157  23  77	Heatmap 6
+131  24  67	Heatmap 7
+# Gauge charts
+147  51 234	Gauge 1
+219  39 119	Gauge 2
+244 114 182	Gauge 3
+245 158  11	Gauge 4
+225  29  72	Gauge 5
+# Other charts
+219  39 119	Other 1
+147  51 234	Other 2
+ 14 165 233	Other 3
+245 158  11	Other 4
+ 16 185 129	Other 5
+236  72 153	Other 6
+100 116 139	Other 7
+# Light theme
+190  24  93	Light Accent
+255 255 255	Light Background
+252 250 251	Light Surface
+248 240 245	Light Surface 2
+243 231 239	Light Background Hover
+ 26  20  24	Light Text
+ 82  72  78	Light Text Dim
+124 114 120	Light Text Faint
+238 226 234	Light Border
+206 186 199	Light Border Strong
+190  24  93	Light Selected
+255 255 255	Light Selected Text
+248 240 245	Light Footer
+252 250 251	Light Icon Rail
+# Dark theme
+244 114 182	Dark Accent
+ 26  18  24	Dark Background
+ 36  25  33	Dark Surface
+ 47  33  43	Dark Surface 2
+ 51  36  47	Dark Background Hover
+242 236 240	Dark Text
+174 162 170	Dark Text Dim
+120 110 117	Dark Text Faint
+ 58  41  53	Dark Border
+ 84  60  77	Dark Border Strong
+190  24  93	Dark Selected
+255 255 255	Dark Selected Text
+ 26  18  24	Dark Footer
+ 26  18  24	Dark Icon Rail
+# OLED theme
+244 114 182	OLED Accent
+  0   0   0	OLED Background
+ 14   9  13	OLED Surface
+ 26  18  24	OLED Surface 2
+ 38  26  35	OLED Background Hover
+246 240 244	OLED Text
+174 162 170	OLED Text Dim
+120 110 117	OLED Text Faint
+ 42  29  38	OLED Border
+ 66  47  60	OLED Border Strong
+190  24  93	OLED Selected
+255 255 255	OLED Selected Text
+  0   0   0	OLED Footer
+  0   0   0	OLED Icon Rail

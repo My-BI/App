@@ -25,6 +25,11 @@
       "id": "finn",
       "name": "MyBI Finn",
       "path": "mybi-finn.gpl"
+    },
+    {
+      "id": "glasgow",
+      "name": "MyBI Glasgow",
+      "path": "mybi-glasgow.gpl"
     }
   ]
 }
