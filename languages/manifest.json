@@ -1,742 +1,742 @@
 {
-  "version": 2,
-  "source": "en-GB",
-  "note": "enabled=false means the file has no translations yet; the app hides those languages and stays on en-GB.",
-  "locales": {
-    "af": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Afrikaans",
-      "native": "Afrikaans"
-    },
-    "am": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Amharic",
-      "native": "አማርኛ"
-    },
-    "ar": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Arabic",
-      "native": "العربية"
-    },
-    "as": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Assamese",
-      "native": "অসমীয়া"
-    },
-    "ay": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Aymara",
-      "native": "Aymar aru"
-    },
-    "az": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Azerbaijani",
-      "native": "Azərbaycan"
-    },
-    "bg": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Bulgarian",
-      "native": "Български"
-    },
-    "bn": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Bengali",
-      "native": "বাংলা"
-    },
-    "brx": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Bodo",
-      "native": "बड़ो"
-    },
-    "ca": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Catalan",
-      "native": "Català"
-    },
-    "cs": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Czech",
-      "native": "Čeština"
-    },
-    "cy": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Welsh",
-      "native": "Cymraeg"
-    },
-    "da": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Danish",
-      "native": "Dansk"
-    },
-    "de": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "German",
-      "native": "Deutsch"
-    },
-    "doi": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Dogri",
-      "native": "डोगरी"
-    },
-    "el": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Greek",
-      "native": "Ελληνικά"
-    },
-    "en-AU": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "English (Australia)",
-      "native": "English (Australia)"
-    },
-    "en-US": {
-      "hash": "fd675679bc27",
-      "enabled": true,
-      "keys": 75,
-      "english": "English (US)",
-      "native": "English (US)"
-    },
-    "es-419": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Spanish (Latin America)",
-      "native": "Español (Latinoamérica)"
-    },
-    "es-MX": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Spanish (Mexico)",
-      "native": "Español (México)"
-    },
-    "es": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Spanish",
-      "native": "Español"
-    },
-    "et": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Estonian",
-      "native": "Eesti"
-    },
-    "fa": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Persian",
-      "native": "فارسی"
-    },
-    "fi": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Finnish",
-      "native": "Suomi"
-    },
-    "fil": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Filipino",
-      "native": "Filipino"
-    },
-    "fj": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Fijian",
-      "native": "Na Vosa Vakaviti"
-    },
-    "fr-CA": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "French (Canada)",
-      "native": "Français (Canada)"
-    },
-    "fr": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "French",
-      "native": "Français"
-    },
-    "ga": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Irish",
-      "native": "Gaeilge"
-    },
-    "gd": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Scottish Gaelic",
-      "native": "Gàidhlig"
-    },
-    "gn": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Guarani",
-      "native": "Avañe'ẽ"
-    },
-    "gu": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Gujarati",
-      "native": "ગુજરાતી"
-    },
-    "ha": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Hausa",
-      "native": "Hausa"
-    },
-    "haw": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Hawaiian",
-      "native": "ʻŌlelo Hawaiʻi"
-    },
-    "he": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Hebrew",
-      "native": "עברית"
-    },
-    "hi": {
-      "hash": "b78d383dad7d",
-      "enabled": true,
-      "keys": 1789,
-      "english": "Hindi",
-      "native": "हिन्दी"
-    },
-    "hr": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Croatian",
-      "native": "Hrvatski"
-    },
-    "ht": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Haitian Creole",
-      "native": "Kreyòl ayisyen"
-    },
-    "hu": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Hungarian",
-      "native": "Magyar"
-    },
-    "id": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Indonesian",
-      "native": "Bahasa Indonesia"
-    },
-    "ig": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Igbo",
-      "native": "Igbo"
-    },
-    "is": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Icelandic",
-      "native": "Íslenska"
-    },
-    "it": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Italian",
-      "native": "Italiano"
-    },
-    "ja": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Japanese",
-      "native": "日本語"
-    },
-    "kk": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Kazakh",
-      "native": "Қазақ"
-    },
-    "km": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Khmer",
-      "native": "ខ្មែរ"
-    },
-    "kn": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Kannada",
-      "native": "ಕನ್ನಡ"
-    },
-    "ko": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Korean",
-      "native": "한국어"
-    },
-    "kok": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Konkani",
-      "native": "कोंकणी"
-    },
-    "ks": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Kashmiri",
-      "native": "کٲشُر"
-    },
-    "ku": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Kurdish",
-      "native": "Kurdî"
-    },
-    "lo": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Lao",
-      "native": "ລາວ"
-    },
-    "lt": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Lithuanian",
-      "native": "Lietuvių"
-    },
-    "lv": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Latvian",
-      "native": "Latviešu"
-    },
-    "mai": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Maithili",
-      "native": "मैथिली"
-    },
-    "mg": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Malagasy",
-      "native": "Malagasy"
-    },
-    "mi": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Māori",
-      "native": "Te Reo Māori"
-    },
-    "ml": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Malayalam",
-      "native": "മലയാളം"
-    },
-    "mn": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Mongolian",
-      "native": "Монгол"
-    },
-    "mni": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Manipuri (Meitei)",
-      "native": "ꯃꯤꯇꯩ ꯂꯣꯟ"
-    },
-    "mr": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Marathi",
-      "native": "मराठी"
-    },
-    "ms": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Malay",
-      "native": "Bahasa Melayu"
-    },
-    "my": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Burmese",
-      "native": "မြန်မာ"
-    },
-    "nb": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Norwegian",
-      "native": "Norsk bokmål"
-    },
-    "ne": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Nepali",
-      "native": "नेपाली"
-    },
-    "nl": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Dutch",
-      "native": "Nederlands"
-    },
-    "nv": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Navajo",
-      "native": "Diné bizaad"
-    },
-    "ny": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Chichewa",
-      "native": "Chichewa"
-    },
-    "or": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Odia",
-      "native": "ଓଡ଼ିଆ"
-    },
-    "pa": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Punjabi",
-      "native": "ਪੰਜਾਬੀ"
-    },
-    "pl": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Polish",
-      "native": "Polski"
-    },
-    "ps": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Pashto",
-      "native": "پښتو"
-    },
-    "pt-BR": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Portuguese (Brazil)",
-      "native": "Português (Brasil)"
-    },
-    "pt-PT": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Portuguese (Portugal)",
-      "native": "Português (Portugal)"
-    },
-    "qu": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Quechua",
-      "native": "Runa Simi"
-    },
-    "ro": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Romanian",
-      "native": "Română"
-    },
-    "ru": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Russian",
-      "native": "Русский"
-    },
-    "rw": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Kinyarwanda",
-      "native": "Ikinyarwanda"
-    },
-    "sa": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Sanskrit",
-      "native": "संस्कृतम्"
-    },
-    "sat": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Santali",
-      "native": "ᱥᱟᱱᱛᱟᱲᱤ"
-    },
-    "sd": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Sindhi",
-      "native": "سنڌي"
-    },
-    "si": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Sinhala",
-      "native": "සිංහල"
-    },
-    "sk": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Slovak",
-      "native": "Slovenčina"
-    },
-    "sl": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Slovenian",
-      "native": "Slovenščina"
-    },
-    "sm": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Samoan",
-      "native": "Gagana Sāmoa"
-    },
-    "sn": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Shona",
-      "native": "chiShona"
-    },
-    "so": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Somali",
-      "native": "Soomaali"
-    },
-    "sr": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Serbian",
-      "native": "Српски"
-    },
-    "sv": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Swedish",
-      "native": "Svenska"
-    },
-    "sw": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Swahili",
-      "native": "Kiswahili"
-    },
-    "ta": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Tamil",
-      "native": "தமிழ்"
-    },
-    "te": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Telugu",
-      "native": "తెలుగు"
-    },
-    "th": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Thai",
-      "native": "ไทย"
-    },
-    "to": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Tongan",
-      "native": "Lea Faka-Tonga"
-    },
-    "tr": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Turkish",
-      "native": "Türkçe"
-    },
-    "uk": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Ukrainian",
-      "native": "Українська"
-    },
-    "ur": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Urdu",
-      "native": "اردو"
-    },
-    "uz": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Uzbek",
-      "native": "Oʻzbek"
-    },
-    "vi": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Vietnamese",
-      "native": "Tiếng Việt"
-    },
-    "xh": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Xhosa",
-      "native": "isiXhosa"
-    },
-    "yo": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Yoruba",
-      "native": "Yorùbá"
-    },
-    "yue": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Cantonese",
-      "native": "粵語"
-    },
-    "zh-Hans": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Chinese (Simplified, Mandarin)",
-      "native": "简体中文"
-    },
-    "zh-Hant": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Chinese (Traditional, Mandarin)",
-      "native": "繁體中文"
-    },
-    "zu": {
-      "hash": "ca3d163bab05",
-      "enabled": false,
-      "keys": 0,
-      "english": "Zulu",
-      "native": "isiZulu"
-    }
+ "version": 2,
+ "source": "en-GB",
+ "note": "enabled=false means the file has no translations yet; the app hides those languages and stays on en-GB.",
+ "locales": {
+  "af": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Afrikaans",
+   "native": "Afrikaans"
+  },
+  "am": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Amharic",
+   "native": "አማርኛ"
+  },
+  "ar": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Arabic",
+   "native": "العربية"
+  },
+  "as": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Assamese",
+   "native": "অসমীয়া"
+  },
+  "ay": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Aymara",
+   "native": "Aymar aru"
+  },
+  "az": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Azerbaijani",
+   "native": "Azərbaycan"
+  },
+  "bg": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Bulgarian",
+   "native": "Български"
+  },
+  "bn": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Bengali",
+   "native": "বাংলা"
+  },
+  "brx": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Bodo",
+   "native": "बड़ो"
+  },
+  "ca": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Catalan",
+   "native": "Català"
+  },
+  "cs": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Czech",
+   "native": "Čeština"
+  },
+  "cy": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Welsh",
+   "native": "Cymraeg"
+  },
+  "da": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Danish",
+   "native": "Dansk"
+  },
+  "de": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "German",
+   "native": "Deutsch"
+  },
+  "doi": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Dogri",
+   "native": "डोगरी"
+  },
+  "el": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Greek",
+   "native": "Ελληνικά"
+  },
+  "en-AU": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "English (Australia)",
+   "native": "English (Australia)"
+  },
+  "en-US": {
+   "hash": "fd675679bc27",
+   "enabled": true,
+   "keys": 75,
+   "english": "English (US)",
+   "native": "English (US)"
+  },
+  "es-419": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Spanish (Latin America)",
+   "native": "Español (Latinoamérica)"
+  },
+  "es-MX": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Spanish (Mexico)",
+   "native": "Español (México)"
+  },
+  "es": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Spanish",
+   "native": "Español"
+  },
+  "et": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Estonian",
+   "native": "Eesti"
+  },
+  "fa": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Persian",
+   "native": "فارسی"
+  },
+  "fi": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Finnish",
+   "native": "Suomi"
+  },
+  "fil": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Filipino",
+   "native": "Filipino"
+  },
+  "fj": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Fijian",
+   "native": "Na Vosa Vakaviti"
+  },
+  "fr-CA": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "French (Canada)",
+   "native": "Français (Canada)"
+  },
+  "fr": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "French",
+   "native": "Français"
+  },
+  "ga": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Irish",
+   "native": "Gaeilge"
+  },
+  "gd": {
+   "hash": "f93d0356b9a4",
+   "enabled": true,
+   "keys": 1960,
+   "english": "Scottish Gaelic",
+   "native": "Gàidhlig"
+  },
+  "gn": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Guarani",
+   "native": "Avañe'ẽ"
+  },
+  "gu": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Gujarati",
+   "native": "ગુજરાતી"
+  },
+  "ha": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Hausa",
+   "native": "Hausa"
+  },
+  "haw": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Hawaiian",
+   "native": "ʻŌlelo Hawaiʻi"
+  },
+  "he": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Hebrew",
+   "native": "עברית"
+  },
+  "hi": {
+   "hash": "efaa81dc1295",
+   "enabled": true,
+   "keys": 2503,
+   "english": "Hindi",
+   "native": "हिन्दी"
+  },
+  "hr": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Croatian",
+   "native": "Hrvatski"
+  },
+  "ht": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Haitian Creole",
+   "native": "Kreyòl ayisyen"
+  },
+  "hu": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Hungarian",
+   "native": "Magyar"
+  },
+  "id": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Indonesian",
+   "native": "Bahasa Indonesia"
+  },
+  "ig": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Igbo",
+   "native": "Igbo"
+  },
+  "is": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Icelandic",
+   "native": "Íslenska"
+  },
+  "it": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Italian",
+   "native": "Italiano"
+  },
+  "ja": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Japanese",
+   "native": "日本語"
+  },
+  "kk": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Kazakh",
+   "native": "Қазақ"
+  },
+  "km": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Khmer",
+   "native": "ខ្មែរ"
+  },
+  "kn": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Kannada",
+   "native": "ಕನ್ನಡ"
+  },
+  "ko": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Korean",
+   "native": "한국어"
+  },
+  "kok": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Konkani",
+   "native": "कोंकणी"
+  },
+  "ks": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Kashmiri",
+   "native": "کٲشُر"
+  },
+  "ku": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Kurdish",
+   "native": "Kurdî"
+  },
+  "lo": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Lao",
+   "native": "ລາວ"
+  },
+  "lt": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Lithuanian",
+   "native": "Lietuvių"
+  },
+  "lv": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Latvian",
+   "native": "Latviešu"
+  },
+  "mai": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Maithili",
+   "native": "मैथिली"
+  },
+  "mg": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Malagasy",
+   "native": "Malagasy"
+  },
+  "mi": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Māori",
+   "native": "Te Reo Māori"
+  },
+  "ml": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Malayalam",
+   "native": "മലയാളം"
+  },
+  "mn": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Mongolian",
+   "native": "Монгол"
+  },
+  "mni": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Manipuri (Meitei)",
+   "native": "ꯃꯤꯇꯩ ꯂꯣꯟ"
+  },
+  "mr": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Marathi",
+   "native": "मराठी"
+  },
+  "ms": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Malay",
+   "native": "Bahasa Melayu"
+  },
+  "my": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Burmese",
+   "native": "မြန်မာ"
+  },
+  "nb": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Norwegian",
+   "native": "Norsk bokmål"
+  },
+  "ne": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Nepali",
+   "native": "नेपाली"
+  },
+  "nl": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Dutch",
+   "native": "Nederlands"
+  },
+  "nv": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Navajo",
+   "native": "Diné bizaad"
+  },
+  "ny": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Chichewa",
+   "native": "Chichewa"
+  },
+  "or": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Odia",
+   "native": "ଓଡ଼ିଆ"
+  },
+  "pa": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Punjabi",
+   "native": "ਪੰਜਾਬੀ"
+  },
+  "pl": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Polish",
+   "native": "Polski"
+  },
+  "ps": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Pashto",
+   "native": "پښتو"
+  },
+  "pt-BR": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Portuguese (Brazil)",
+   "native": "Português (Brasil)"
+  },
+  "pt-PT": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Portuguese (Portugal)",
+   "native": "Português (Portugal)"
+  },
+  "qu": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Quechua",
+   "native": "Runa Simi"
+  },
+  "ro": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Romanian",
+   "native": "Română"
+  },
+  "ru": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Russian",
+   "native": "Русский"
+  },
+  "rw": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Kinyarwanda",
+   "native": "Ikinyarwanda"
+  },
+  "sa": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Sanskrit",
+   "native": "संस्कृतम्"
+  },
+  "sat": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Santali",
+   "native": "ᱥᱟᱱᱛᱟᱲᱤ"
+  },
+  "sd": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Sindhi",
+   "native": "سنڌي"
+  },
+  "si": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Sinhala",
+   "native": "සිංහල"
+  },
+  "sk": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Slovak",
+   "native": "Slovenčina"
+  },
+  "sl": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Slovenian",
+   "native": "Slovenščina"
+  },
+  "sm": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Samoan",
+   "native": "Gagana Sāmoa"
+  },
+  "sn": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Shona",
+   "native": "chiShona"
+  },
+  "so": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Somali",
+   "native": "Soomaali"
+  },
+  "sr": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Serbian",
+   "native": "Српски"
+  },
+  "sv": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Swedish",
+   "native": "Svenska"
+  },
+  "sw": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Swahili",
+   "native": "Kiswahili"
+  },
+  "ta": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Tamil",
+   "native": "தமிழ்"
+  },
+  "te": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Telugu",
+   "native": "తెలుగు"
+  },
+  "th": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Thai",
+   "native": "ไทย"
+  },
+  "to": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Tongan",
+   "native": "Lea Faka-Tonga"
+  },
+  "tr": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Turkish",
+   "native": "Türkçe"
+  },
+  "uk": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Ukrainian",
+   "native": "Українська"
+  },
+  "ur": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Urdu",
+   "native": "اردو"
+  },
+  "uz": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Uzbek",
+   "native": "Oʻzbek"
+  },
+  "vi": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Vietnamese",
+   "native": "Tiếng Việt"
+  },
+  "xh": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Xhosa",
+   "native": "isiXhosa"
+  },
+  "yo": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Yoruba",
+   "native": "Yorùbá"
+  },
+  "yue": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Cantonese",
+   "native": "粵語"
+  },
+  "zh-Hans": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Chinese (Simplified, Mandarin)",
+   "native": "简体中文"
+  },
+  "zh-Hant": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Chinese (Traditional, Mandarin)",
+   "native": "繁體中文"
+  },
+  "zu": {
+   "hash": "ca3d163bab05",
+   "enabled": false,
+   "keys": 0,
+   "english": "Zulu",
+   "native": "isiZulu"
   }
+ }
 }
