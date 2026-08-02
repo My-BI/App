@@ -30,6 +30,11 @@
       "id": "glasgow",
       "name": "MyBI Glasgow",
       "path": "mybi-glasgow.gpl"
+    },
+    {
+      "id": "jaipur",
+      "name": "MyBI Jaipur",
+      "path": "mybi-jaipur.gpl"
     }
   ]
 }

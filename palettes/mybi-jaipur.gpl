@@ -1,0 +1,123 @@
+GIMP Palette
+Name: MyBI Jaipur
+Columns: 8
+# Identifier: jaipur
+# Description: The Pink City — warm terracotta rose over sandstone, with saffron and peacock accents.
+# Charts series
+190  62  74	Charts 1
+216  95  92	Charts 2
+232 131 117	Charts 3
+240 166 143	Charts 4
+228 138  75	Charts 5
+234 179  59	Charts 6
+ 30 138 138	Charts 7
+ 96  74 123	Charts 8
+# Primary palette
+158  46  62	Primary 1
+190  62  74	Primary 2
+216  95  92	Primary 3
+232 131 117	Primary 4
+245 197 176	Primary 5
+# Secondary palette
+228 138  75	Secondary 1
+234 179  59	Secondary 2
+ 30 138 138	Secondary 3
+ 96  74 123	Secondary 4
+138 116  94	Secondary 5
+# Additional functional colours
+158  46  62	Functional 1
+228 138  75	Functional 2
+245 214 160	Functional 3
+158 202 168	Functional 4
+ 30 138 138	Functional 5
+# Bar charts
+120  34  48	Bar 1
+158  46  62	Bar 2
+190  62  74	Bar 3
+216  95  92	Bar 4
+232 131 117	Bar 5
+240 166 143	Bar 6
+245 197 176	Bar 7
+# Line charts
+190  62  74	Line 1
+ 30 138 138	Line 2
+228 138  75	Line 3
+ 96  74 123	Line 4
+234 179  59	Line 5
+138 116  94	Line 6
+120 113 108	Line 7
+# Pie charts
+190  62  74	Pie 1
+234 179  59	Pie 2
+ 30 138 138	Pie 3
+ 96  74 123	Pie 4
+228 138  75	Pie 5
+158 202 168	Pie 6
+138 116  94	Pie 7
+# Heatmap charts
+253 245 238	Heatmap 1
+250 228 213	Heatmap 2
+245 197 176	Heatmap 3
+232 131 117	Heatmap 4
+190  62  74	Heatmap 5
+158  46  62	Heatmap 6
+120  34  48	Heatmap 7
+# Gauge charts
+ 30 138 138	Gauge 1
+158 202 168	Gauge 2
+234 179  59	Gauge 3
+228 138  75	Gauge 4
+190  62  74	Gauge 5
+# Other charts
+190  62  74	Other 1
+ 30 138 138	Other 2
+234 179  59	Other 3
+ 96  74 123	Other 4
+228 138  75	Other 5
+158 202 168	Other 6
+138 116  94	Other 7
+# Light theme
+190  62  74	Light Accent
+255 252 248	Light Background
+253 247 240	Light Surface
+248 236 224	Light Surface 2
+243 227 212	Light Background Hover
+ 38  26  24	Light Text
+ 92  76  70	Light Text Dim
+134 118 110	Light Text Faint
+240 226 212	Light Border
+212 190 172	Light Border Strong
+190  62  74	Light Selected
+255 255 255	Light Selected Text
+248 236 224	Light Footer
+253 247 240	Light Icon Rail
+# Dark theme
+232 131 117	Dark Accent
+ 30  22  21	Dark Background
+ 42  30  28	Dark Surface
+ 54  39  36	Dark Surface 2
+ 60  43  40	Dark Background Hover
+244 236 232	Dark Text
+178 164 158	Dark Text Dim
+124 112 107	Dark Text Faint
+ 66  48  44	Dark Border
+ 94  70  63	Dark Border Strong
+190  62  74	Dark Selected
+255 255 255	Dark Selected Text
+ 30  22  21	Dark Footer
+ 30  22  21	Dark Icon Rail
+# OLED theme
+232 131 117	OLED Accent
+  0   0   0	OLED Background
+ 16  11  10	OLED Surface
+ 30  22  21	OLED Surface 2
+ 44  32  30	OLED Background Hover
+248 240 236	OLED Text
+178 164 158	OLED Text Dim
+124 112 107	OLED Text Faint
+ 48  34  32	OLED Border
+ 74  54  49	OLED Border Strong
+190  62  74	OLED Selected
+255 255 255	OLED Selected Text
+  0   0   0	OLED Footer
+  0   0   0	OLED Icon Rail
