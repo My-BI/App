@@ -207,9 +207,9 @@
    "native": "Gaeilge"
   },
   "gd": {
-   "hash": "0b71dbcaf63f",
+   "hash": "ec7177249102",
    "enabled": true,
-   "keys": 4109,
+   "keys": 5181,
    "english": "Scottish Gaelic",
    "native": "Gàidhlig"
   },
@@ -718,9 +718,9 @@
    "native": "粵語"
   },
   "zh-Hans": {
-   "hash": "ca3d163bab05",
-   "enabled": false,
-   "keys": 0,
+   "hash": "14dc7b34acc0",
+   "enabled": true,
+   "keys": 5084,
    "english": "Chinese (Simplified, Mandarin)",
    "native": "简体中文"
   },
