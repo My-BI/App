@@ -35,6 +35,11 @@
       "id": "jaipur",
       "name": "MyBI Jaipur",
       "path": "mybi-jaipur.gpl"
+    },
+    {
+      "id": "monday-blues",
+      "name": "MyBI Monday Blues",
+      "path": "mybi-monday-blues.gpl"
     }
   ]
 }
