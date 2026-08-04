@@ -3,42 +3,42 @@
   "palettes": [
     {
       "id": "default",
-      "name": "MyBI",
+      "name": "Default",
       "path": "mybi-default.gpl"
     },
     {
       "id": "okabe-ito",
-      "name": "MyBI Okabe-Ito",
+      "name": "Okabe-Ito",
       "path": "mybi-okabe-ito.gpl"
     },
     {
       "id": "life",
-      "name": "MyBI Life",
+      "name": "Life",
       "path": "mybi-life.gpl"
     },
     {
       "id": "mks",
-      "name": "MyBI MKS",
+      "name": "MKS",
       "path": "mybi-mks.gpl"
     },
     {
       "id": "finn",
-      "name": "MyBI Finn",
+      "name": "Finn",
       "path": "mybi-finn.gpl"
     },
     {
       "id": "glasgow",
-      "name": "MyBI Glasgow",
+      "name": "Glasgow",
       "path": "mybi-glasgow.gpl"
     },
     {
       "id": "jaipur",
-      "name": "MyBI Jaipur",
+      "name": "Jaipur",
       "path": "mybi-jaipur.gpl"
     },
     {
       "id": "monday-blues",
-      "name": "MyBI Monday Blues",
+      "name": "Monday Blues",
       "path": "mybi-monday-blues.gpl"
     }
   ]
