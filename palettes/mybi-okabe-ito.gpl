@@ -3,6 +3,7 @@ Name: Okabe-Ito
 Columns: 8
 # Identifier: okabe-ito
 # Description: Colour-blind safe categorical colours — legible under deuteranopia, protanopia and tritanopia.
+# Author: Masataka Okabe & Kei Ito
 # Charts series
   0 114 178	Charts 1
 213  94   0	Charts 2

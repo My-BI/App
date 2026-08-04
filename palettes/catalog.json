@@ -4,41 +4,49 @@
     {
       "id": "default",
       "name": "Default",
+      "author": "MyBI",
       "path": "mybi-default.gpl"
     },
     {
       "id": "okabe-ito",
       "name": "Okabe-Ito",
+      "author": "Masataka Okabe & Kei Ito",
       "path": "mybi-okabe-ito.gpl"
     },
     {
       "id": "life",
       "name": "Life",
+      "author": "MyBI",
       "path": "mybi-life.gpl"
     },
     {
       "id": "mks",
       "name": "MKS",
+      "author": "MyBI",
       "path": "mybi-mks.gpl"
     },
     {
       "id": "finn",
       "name": "Finn",
+      "author": "MyBI",
       "path": "mybi-finn.gpl"
     },
     {
       "id": "glasgow",
       "name": "Glasgow",
+      "author": "MyBI",
       "path": "mybi-glasgow.gpl"
     },
     {
       "id": "jaipur",
       "name": "Jaipur",
+      "author": "MyBI",
       "path": "mybi-jaipur.gpl"
     },
     {
       "id": "monday-blues",
       "name": "Monday Blues",
+      "author": "MyBI",
       "path": "mybi-monday-blues.gpl"
     }
   ]

@@ -3,6 +3,7 @@ Name: Default
 Columns: 8
 # Identifier: default
 # Description: Best-practice colours per chart type over MyBI's grey app theme.
+# Author: MyBI
 # Charts series
  26 152  80	Charts 1
 102 189  99	Charts 2
