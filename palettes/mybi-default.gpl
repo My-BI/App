@@ -77,19 +77,28 @@ Columns: 8
 244 114 182	Other 6
 100 116 139	Other 7
 # Light theme
+# Elevation runs DOWN from the page, the way every published palette builds its light
+# set (Finn, Life, Monday Blues, Glasgow, Jaipur): background is the lightest value,
+# surface sits just under it, surface 2 under that, with the icon rail on surface and
+# the footer on surface 2. This one used to run the other way — a #ececec page under
+# #fafafa surfaces — so the chrome out-lit the content it framed, and the app's derived
+# mid elevation (the mix of the two surfaces, which 65 rules paint panels and cards
+# with) landed at #efefef on that #ececec page: a contrast ratio of 1.02, where a card
+# stops being a card. It is the only palette that ever inverted, which is why the
+# Default was the only one that looked wrong.
  99 102 241	Light Accent
-236 236 236	Light Background
+255 255 255	Light Background
 250 250 250	Light Surface
-228 228 228	Light Surface 2
-220 220 220	Light Background Hover
+242 242 242	Light Surface 2
+235 235 235	Light Background Hover
  20  20  20	Light Text
  74  74  74	Light Text Dim
 117 117 117	Light Text Faint
-212 212 212	Light Border
-184 184 184	Light Border Strong
+226 226 226	Light Border
+194 194 194	Light Border Strong
  99 102 241	Light Selected
 255 255 255	Light Selected Text
-228 228 228	Light Footer
+242 242 242	Light Footer
 250 250 250	Light Icon Rail
 # Dark theme
 129 140 248	Dark Accent
